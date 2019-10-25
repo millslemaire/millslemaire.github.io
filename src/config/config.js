@@ -10,11 +10,11 @@ export default {
   width: 800,
   height: 600,
   physics: {
-    default: 'arcade',
-    arcade: {
-        gravity: { y: 0 },
+    default: 'matter',
+    matter: {
+        gravity: { y: 0.5 },
         debug: true
     }
   },
-//pixelArt: true
+pixelArt: true
 };
