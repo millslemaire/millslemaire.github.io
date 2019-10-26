@@ -12,7 +12,7 @@ export default {
   physics: {
     default: 'matter',
     matter: {
-        gravity: { y: 0.5 },
+        gravity: { y: 1 },
         debug: true
     }
   },
