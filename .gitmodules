@@ -1,0 +1,3 @@
+[submodule "tankerTotGame"]
+	path = tankerTotGame
+	url = https://github.com/millslemaire/tankerTotGame
